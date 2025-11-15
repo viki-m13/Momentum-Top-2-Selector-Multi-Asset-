@@ -18,3 +18,19 @@ In simple terms: it finds the strongest recent trends in your chosen universe, b
 
 
 <img width="989" height="590" alt="image" src="https://github.com/user-attachments/assets/840caca9-e8cf-43c0-926c-68b875b01d2d" />
+
+
+**Sample performance (UNIVERSE_MODE="ALL", L=20, top_k=2, benchmark = BTC-USD)**  
+- Strategy total return: **+1452.99%**  
+- Strategy CAGR: **45.53%**  
+- Strategy Sharpe (rf=0): **1.15**  
+- Strategy max drawdown: **-41.30%**  
+
+- BTC-USD total return: **+1252.60%**  
+- BTC-USD CAGR: **42.81%**  
+- BTC-USD Sharpe (rf=0): **0.88**  
+- BTC-USD max drawdown: **-76.63%**
+
+
+<img width="989" height="590" alt="image" src="https://github.com/user-attachments/assets/a437fe4b-7f27-429c-92cd-9cfd6fd22a39" />
+
